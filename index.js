@@ -782,4 +782,4 @@ function shuffle(queue) {
 
 
 
-bot.login(BOT_TOKEN);
+bot.login(botSettings.token);
