@@ -1,8 +1,8 @@
 {
 
-	"token": "YOUR DISCORD API TOKEN HERE",
+	"token": "BOT_TOKEN",
 
-	"prefix": "#",
+	"prefix": "!",
 
 	"ytApiKey": "YOUR YOUTUBE API TOKEN HERE"
 
