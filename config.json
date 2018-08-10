@@ -1,9 +1,5 @@
 {
-
 	"token": "BOT_TOKEN",
-
 	"prefix": "!",
-
 	"ytApiKey": "YOUR YOUTUBE API TOKEN HERE"
-
 }
